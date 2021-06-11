@@ -1,8 +1,5 @@
 Este es un archivo de prueba 1.
 
-
-
-
-
-
 seguro vamos a tener muchos problemas uniendo esto
+
+Este es un archivo de prueba 1. Modificado para conflicto.
